@@ -3,7 +3,7 @@
 //  SliderColor
 //
 //  Created by Alexey Kanaev on 3/25/23.
-//
+//  test comment
 
 import UIKit
 
